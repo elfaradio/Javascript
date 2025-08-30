@@ -1,0 +1,5 @@
+link:
+
+1.https://www.freecodecamp.org/news/how-javascript-works-behind-the-scene-javascript-execution-context/
+2.https://dev.to/jahid6597/javascript-execution-context-a-deep-dive-4kno
+3.https://medium.com/@omkarbhavare2406/understanding-the-execution-context-and-call-stack-in-javascript-e044c2c34cc5
